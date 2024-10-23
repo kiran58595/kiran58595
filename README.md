@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![Julia Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Kiran kumar desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -31,7 +31,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Julia** locally, run this command on your git bash:
+To run **Kiran Kumar** locally, run this command on your git bash:
 
 Linux and macOS:
 
