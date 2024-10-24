@@ -36,7 +36,7 @@ To run **Kiran Kumar** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://kiran58595.github.io/kiran58595/.git
+sudo git clone https://github.com/kiran58595/kiran58595.git
 ```
 
 Windows:
