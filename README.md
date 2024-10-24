@@ -42,7 +42,7 @@ sudo git clone https://github.com/kiran58595/kiran58595.git
 Windows:
 
 ```bash
-git clone https://kiran58595.github.io/kiran58595/
+gh repo clone kiran58595/kiran58595
 ```
 
 ### License
