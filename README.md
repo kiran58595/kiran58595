@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![Kiran kumar desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Kiran kumar desktop Demo](./assets/images/portfolio.png "Desktop Demo")
 
 ### Prerequisites
 
