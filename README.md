@@ -13,7 +13,7 @@
 
   A fully responsive personal portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/julia-portfolio/"><strong>➥ Live Demo</strong></a>
+  <a href="https://kiran58595.github.io/kiran58595/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -36,18 +36,14 @@ To run **Kiran Kumar** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/julia-portfolio.git
+sudo git clone https://kiran58595.github.io/kiran58595/.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/julia-portfolio.git
+git clone https://kiran58595.github.io/kiran58595/
 ```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
 ### License
 
